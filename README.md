@@ -1,7 +1,6 @@
 # 💫 About Me: 
 I'm a third-year student pursuing Bachelors Of Technology in Data Science and Engineering. My focus spans mathematical, computer science, and biological interests, converging into applications in medical imaging, digital biometrics and biomedical sciences. I am interested in biomedical image analysis, employing techniques like Semantic Segmentation and 3D CNNs. I am also interested in brain fMRI data employing machine learning and deep learning to understand neurodegenerative disorders. <br><br>My goal is to contribute to the intersection of all the above-mentioned topics, making advancements in medical diagnostics and disease understanding while also developing robust solutions that mitigate the risks associated with digital manipulation in <br>various domains, including healthcare and beyond.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abeersethia&label=Profile%20views&color=0e75b6&style=flat" alt="abeersethia" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*BBYuLIsXxmIF3Hafuvfa8g.gif">
 
 
