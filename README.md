@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/v2/resize:fit:1200/1*BBYuLIsXxmIF3Hafuvfa8g.gif](https://i.pinimg.com/originals/3a/2d/53/3a2d53911bff095e20ea9d418a249bff.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6Gv.gif">
 
 I'm a third-year student pursuing Bachelors Of Technology in Data Science and Engineering. My focus spans mathematical, computer science, and biological interests, converging into applications in medical imaging, digital biometrics and biomedical sciences. I am interested in biomedical image analysis, employing techniques like Semantic Segmentation and 3D CNNs. I am also interested in brain fMRI data employing machine learning and deep learning to understand neurodegenerative disorders. My goal is to contribute to the intersection of all the above-mentioned topics, making advancements in medical diagnostics and disease understanding while also developing robust solutions that mitigate the risks associated with digital manipulation in various domains, including healthcare and beyond.
 
