@@ -5,3 +5,5 @@
 I’m a final-year B.Tech student in Data Science and Engineering with a Minor in Multimodal Intelligent Systems, working at the intersection of machine learning, biomedical imaging, and computational neuroscience. My research interests span medical image analysis, nonlinear signal reconstruction, and digital biometrics, with a focus on building clinically relevant AI systems using techniques such as semantic segmentation, 3D CNNs, self-supervised learning, and dynamical systems modeling.
 
 I also build stuff for fun.
+
+Feel free to reach out on email: abeersethia3105 [at] gmail [dot] com :mailbox:
