@@ -7,5 +7,3 @@ I’m a final-year B.Tech student in Data Science and Engineering with a Minor i
 I also build stuff for fun.
 
 Always happy to connect with curious minds! Feel free to reach out on email: abeersethia3105 [at] gmail [dot] com :mailbox:
-
-![abeersethia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeersethia&theme=highcontrast&hide_border=true)
