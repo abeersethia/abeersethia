@@ -8,4 +8,4 @@ I also build stuff for fun.
 
 Always happy to connect with curious minds! Feel free to reach out on email: abeersethia3105 [at] gmail [dot] com :mailbox:
 
-[![Abeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeersethia)](https://github.com/abeersethia/github-readme-stats)
+![abeersethia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeersethia&theme=highcontrast&hide_border=true)
