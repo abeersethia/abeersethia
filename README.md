@@ -8,5 +8,3 @@ I also build stuff for fun.
 
 Always happy to connect with curious minds! Feel free to reach out on email: abeersethia3105 [at] gmail [dot] com :mailbox:
 
-[![Top Langs](https://vercel.app)](https://github.com/abeersethia/github-readme-stats)
-
